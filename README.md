@@ -22,13 +22,13 @@ This project is a comprehensive research report on [specific NLP topic, e.g., "S
 
 ## Project Structure
 
-├── data/ # Folder containing datasets 
-├── notebooks/ # Jupyter notebooks used in the research 
-├── src/ # Source code for models and utilities 
-├── results/ # Folder containing results and analysis 
-├── reports/ # Generated reports and figures 
-├── requirements.txt # Python dependencies 
-└── README.md # This README file
+    ├── data/ # Folder containing datasets 
+    ├── notebooks/ # Jupyter notebooks used in the research 
+    ├── src/ # Source code for models and utilities 
+    ├── results/ # Folder containing results and analysis 
+    ├── reports/ # Generated reports and figures 
+    ├── requirements.txt # Python dependencies 
+    └── README.md # This README file
 
 
 ## Installation
